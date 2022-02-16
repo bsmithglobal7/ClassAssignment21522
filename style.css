@@ -25,10 +25,10 @@ p2 {
 }
 
 p2:hover {
-    color: wheat;
+    color: black;
     text-align: center;
     font-size: medium;
-    background-color: black;
+    background-color: yellowgreen;
     padding-left: 10mm;
     padding-right: 10mm;
     padding-bottom: 50mm;
@@ -48,11 +48,11 @@ p3 {
 }
 
 p3:hover {
-    color: wheat;
+    color: black;
     text-align: center;
     font-size: large;
     font-weight: bold;
-    background-color:  black;
+    background-color:  yellowgreen;
     padding-left: 10mm;
     padding-right: 10mm;
     padding-bottom: 50mm;
@@ -70,9 +70,9 @@ p4 {
 }
 
 p4:hover {
-    color: wheat;
+    color: black;
     text-align: center;
-    background-color: black;
+    background-color: yellowgreen;
     padding-left: 10mm;
     padding-right: 10mm;
     padding-bottom: 50mm;

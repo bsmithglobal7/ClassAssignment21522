@@ -1,0 +1,103 @@
+/* Brandis Comments*/
+h1 {
+    color: white;
+    text-align: right;
+    background-color: black;
+}
+
+h1:hover { color: black;
+    background-color:azure;
+
+}
+    p {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+      }
+p2 {
+    color: black;
+    text-align: center;
+    font-size: medium;
+    background-color: salmon;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    padding-bottom: 50mm;
+    padding-top: 1mm;
+}
+
+p2:hover {
+    color: wheat;
+    text-align: center;
+    font-size: medium;
+    background-color: black;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    padding-bottom: 50mm;
+    cursor: help;
+}
+
+
+p3 {
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    background-color:  white;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    padding-bottom: 50mm;
+}
+
+p3:hover {
+    color: wheat;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    background-color:  black;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    padding-bottom: 50mm;
+    cursor: help;
+}
+
+p4 {
+    color: black;
+    text-align: center;
+    background-color: salmon;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    padding-bottom: 50mm;
+    padding-top: 1mm;
+}
+
+p4:hover {
+    color: wheat;
+    text-align: center;
+    background-color: black;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    padding-bottom: 50mm;
+    cursor: help;
+}
+
+a:link {
+background-color: yellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-color: red;
+ 
+  border-radius: 10mm;
+  }
+
+a:hover {
+    color: white;
+    cursor: pointer;
+    background-color: black;
+    align-items: ;
+
+
+}
+
